@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+}
+
+.signup-form {
+    padding: 50px;
+    background-color: white;
+}
+
+.signup-form__input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
